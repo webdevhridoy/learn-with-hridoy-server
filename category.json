@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01",
+    "image": "https://i.ibb.co/jfzXKSy/Modern-React-with-Redux.png",
+    "short_details": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!.",
+    "category": "React.JS"
+  },
+  {
+    "id": "02",
+    "image": "https://i.ibb.co/bWLSmrH/Advanced-React-and-Redux.png",
+    "short_details": "Walkthroughs on advanced React v16.6.3 and Redux v4.0.0 - Authentication, Testing, Middlewares, HOC's, and Deployment.",
+    "category": "React.JS"
+  },
+  {
+    "id": "03",
+    "image": "https://i.ibb.co/h7sHPmb/React-basic-in-just-1-hour-2022.png",
+    "short_details": "The quick guide to learn basic concepts and workflow of how to build React app.",
+    "category": "React.JS"
+  },
+  {
+    "id": "04",
+    "image": "https://i.ibb.co/yhsCXq6/Complete-Next-js-with-React-Node.png",
+    "short_details": "Learn Next JS & Headless WordPress & build a fully functioning real estate property website with NextJS v12 & WordPress",
+    "category": "Next.JS"
+  },
+  {
+    "id": "05",
+    "image": "https://i.ibb.co/0qYmWZz/Next-js-Dev-to-Deployment.png",
+    "short_details": "Learn Next.js by building a music event website.",
+    "category": "Next.JS"
+  },
+  {
+    "id": "06",
+    "image": "https://i.ibb.co/Wxnwhhj/Javascript-for-Beginners.png",
+    "short_details": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+    "category": "JavaScript"
+  },
+  {
+    "id": "07",
+    "image": "https://i.ibb.co/82m6Bk9/Java-Script-Understanding-the-Weird-Parts.png",
+    "short_details": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",
+    "category": "JavaScript"
+  },
+  {
+    "id": "08",
+    "image": "https://i.ibb.co/47f4RNz/The-Complete-Python-Programming-Course.png",
+    "short_details": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+    "category": "Python"
+  },
+  {
+    "id": "09",
+    "image": "https://i.ibb.co/hMqssMj/Learn-Python-Programming-from-scratch.png",
+    "short_details": "Python For Beginners : This course is meant for absolute beginners in programming or in python.",
+    "category": "Python"
+  }
+]
