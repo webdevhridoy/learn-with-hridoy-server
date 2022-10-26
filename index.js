@@ -6,6 +6,7 @@ app.use(cors());
 
 const courses = require('./courses.json');
 const category = require('./category.json');
+const faq = require('./faq.json');
 
 
 app.get('/', (req, res) => {
@@ -36,6 +37,9 @@ app.get('/courses/:id', (req, res) => {
     res.send(allCourses);
 });
 
+app.get('/faq', (req, res) => {
+    res.send(faq);
+});
 
 
 app.listen(port, () => {

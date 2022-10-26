@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Why will you take React JS courses?",
+    "ans": "Whether you are just beginning or looking to develop web apps that utilize the React library, Learn With Hridoy has a comprehensive selection of React courses. Take one of the many React training courses on Learn With Hridoy from real world instructors, and develop your skills in this exciting field."
+  },
+  {
+    "question": "Why is JavaScript important?",
+    "ans": "JavaScript is the programming language that allows users to interact with the websites that they're visiting, making it a very important language for web developers to know. In the past, most developers focused on the backend; JavaScript was only relevant when they needed to use visual effects. As web development evolved and the focus shifted towards user experience, programmers started to rely on JavaScript for their frontend code heavily. Today, most sites use JavaScript to fetch and submit data, use logic, and generate HTML in browsers. JavaScript can also communicate asynchronously with data servers in the background without interrupting the user interaction in the foreground. These features make JavaScript not only an important language but a necessary language for modern web development.."
+  },
+  {
+    "question": "When to use Next.JS?",
+    "ans": "To answer this question, you should know what you want to achieve. It doesn’t have to be just one goal – there is nothing wrong with wanting more.Now, look at the list below and ask yourself whether at least one of these goals is your goal. Goals you can achieve with NextJS - Increase in conversion rate and sales Boost of marketing channels, Overtake of competition, Better user experience, Lower maintenance costs,    Easier business scaling, Improve the performance of your website or web app"
+  },
+  {
+    "question": "What is Python?",
+    "ans": "Python is a general-purpose, object-oriented, high-level programming language. Whether you work in artificial intelligence or finance or are pursuing a career in web development or data science, Python is one of the most important skills you can learn. Python's simple syntax is especially suited for desktop, web, and business applications. Python's design philosophy emphasizes readability and usability. Python was developed on the premise that there should be only one way (and preferably, one obvious way) to do things, a philosophy that resulted in a strict level of code standardization. The core programming language is quite small and the standard library is also large. In fact, Python's large library is one of its greatest benefits, providing different tools for programmers suited for a variety of tasks."
+  },
+  {
+    "question": "What is Java used for?",
+    "ans": "Java is a very versatile language. Several fields use Java, including Android app development, desktop applications that work on many operating systems, server-side applications, and more. The virtual machine required to run Java programs has been ported to numerous operating systems allowing Java to run on virtually all hardware. According to the TIOBE index, Java has consistently been in the top 3 most-used and popular languages since its initial release in the 1990s. Many developers still consider Java the language of choice in areas such as enterprise and application servers, and even in embedded systems development. Many Fortune 500 companies rely on Java to run their core systems and employers often view Java experience on a résumé as favorable due to its popularity."
+  },
+  {
+    "question": "Who this (C++) course is for:?",
+    "ans": "Beginners - (Concepts are Covered from Basics to Advance). Course Covers more than University Syllabus. If you already know C++ then you will definitely improve your understanding of programming and OOPs concepts."
+  }
+]
